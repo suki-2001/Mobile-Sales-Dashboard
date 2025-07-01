@@ -64,3 +64,4 @@ Understands which age groups dominate mobile purchases.
 6. Screenshots / Demos
    The 3 pages of this Sales Dashboard
    1> https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard(Page%201).png
+   2> https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20(Page%202).png
