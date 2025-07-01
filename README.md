@@ -8,13 +8,14 @@
 An interactive Power BI dashboard designed to analyze mobile sales data across brands, cities, and customer segments. This tool helps uncover consumer preferences, top-performing brands, and payment trends using real sales data.
 
 3. Tech Stack
+
 📊 Power BI Desktop – Main platform for building interactive visuals and dashboard layout.
 📂 Power Query – Used to clean, transform, and load raw CSV/Excel data.
 🧠 DAX (Data Analysis Expressions) – Enables custom KPIs, dynamic filtering, and smart visuals.
 📝 Data Modeling – Established logical relationships across time, customer, and product fields.
 📁 File Formats – .pbix (Power BI file), .xlsx (Excel source data).
 
-4. Data Source
+6. Data Source
 Source: Data retrieved from Satish Dhawale’s GitHub repository containing a CSV file with mobile sales transaction data.
 
 Structure:
@@ -62,7 +63,7 @@ Understands which age groups dominate mobile purchases.
 - Payment Strategy: Tailor promotions to preferred payment methods for better conversion.
 
 6. Screenshots / Demos
-   The 3 pages of this Sales Dashboard
-   1> https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard(Page%201).png
-   2> https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20(Page%202).png
-   https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20(Page%203).png
+The 3 pages of this Sales Dashboard
+1> https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard(Page%201).png
+2> https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20(Page%202).png
+https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20(Page%203).png
