@@ -1,25 +1,28 @@
 # Mobile-Sales-Dashboard
 
-📱 Mobile Sales Insights Dashboard
-1. Project Title / Headline
+## 📱 Mobile Sales Insights Dashboard
+### 1. Project Title / Headline
+
 📈 Mobile Sales Insights: Power BI Dashboard for Brand & Customer Trends
 
-2. Short Description / Purpose
+### 2. Short Description / Purpose
+
 An interactive Power BI dashboard designed to analyze mobile sales data across brands, cities, and customer segments. This tool helps uncover consumer preferences, top-performing brands, and payment trends using real sales data.
 
-3. Tech Stack
+### 3. Tech Stack
 
 📊 Power BI Desktop – Main platform for building interactive visuals and dashboard layout.
 
-📂 Power Query – Used to clean, transform, and load raw CSV/Excel data.
+📂 Power Query – Utilized for ETL (Extract, Transform, Load) processes: importing raw CSV/Excel data, cleaning inconsistent entries, shaping data tables, and preparing for analysis.
 
-🧠 DAX (Data Analysis Expressions) – Enables custom KPIs, dynamic filtering, and smart visuals.
+🧠 DAX (Data Analysis Expressions) – Implemented to create calculated columns, dynamic measures (e.g., total revenue, average customer rating), time intelligence (e.g., weekday trends), and conditional formatting logic.
 
-📝 Data Modeling – Established logical relationships across time, customer, and product fields.
+📝 Data Modeling – Logical relationships were established across dimensions such as brand, customer, product, geography, and time to enable seamless slicing and cross-filtering.
 
 📁 File Formats – .pbix (Power BI file), .xlsx (Excel source data).
 
-4. Data Source
+### 4. Data Source
+
 Source: Data retrieved from Satish Dhawale’s GitHub repository containing a CSV file with mobile sales transaction data.
 
 Structure:
@@ -31,17 +34,17 @@ Structure:
 - Payment Method
 - Data structured in tabular format with each row representing a unique mobile purchase.
 
-5. Features and Highlights
-5.1 Business Problem
+### 5. Features and Highlights
+##### 5.1 Business Problem
 Mobile retailers often struggle to pinpoint which brands, cities, or customer segments drive the most revenue. Without a centralized dashboard, insights remain buried in raw spreadsheets.
 
-5.2 Goal of the Dashboard
+##### 5.2 Goal of the Dashboard
 To build a unified, interactive view of sales trends by brand, city, customer demographics, and payment method. The dashboard helps stakeholders:
 - Understand buying behavior
 - Optimize product strategy
 - Refine marketing efforts
 
-5.3 Walkthrough of Key Visuals:
+##### 5.3 Walkthrough of Key Visuals:
 - Top Brands by Units Sold & Revenue (Bar Charts)
 Quickly spot top-performing brands like Xiaomi, Vivo, and OnePlus.
 
@@ -60,14 +63,18 @@ Identifies popular transaction methods like UPI, Cash, and Credit Cards.
 - Age Distribution of Buyers (Histogram)
 Understands which age groups dominate mobile purchases.
 
-5.4 Business Impact & Insights
+##### 5.4 Business Impact & Insights
 - Product Strategy: Identify high-demand models and adjust stock accordingly.
 - Customer Targeting: Segment campaigns by age group, city, or preferences.
 - Operational Planning: Plan workforce or delivery logistics based on peak days.
 - Payment Strategy: Tailor promotions to preferred payment methods for better conversion.
 
-6. Screenshots / Demos
-The 3 pages of this Sales Dashboard
-1> https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard(Page%201).png
-2> https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20(Page%202).png
+### 6. Screenshots / Demos
+
+##### The 3 pages of this Sales Dashboard
+
+https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard(Page%201).png
+
+https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20(Page%202).png
+
 https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20(Page%203).png
