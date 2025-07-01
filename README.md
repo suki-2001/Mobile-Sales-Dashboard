@@ -10,12 +10,16 @@ An interactive Power BI dashboard designed to analyze mobile sales data across b
 3. Tech Stack
 
 📊 Power BI Desktop – Main platform for building interactive visuals and dashboard layout.
+
 📂 Power Query – Used to clean, transform, and load raw CSV/Excel data.
+
 🧠 DAX (Data Analysis Expressions) – Enables custom KPIs, dynamic filtering, and smart visuals.
+
 📝 Data Modeling – Established logical relationships across time, customer, and product fields.
+
 📁 File Formats – .pbix (Power BI file), .xlsx (Excel source data).
 
-6. Data Source
+4. Data Source
 Source: Data retrieved from Satish Dhawale’s GitHub repository containing a CSV file with mobile sales transaction data.
 
 Structure:
@@ -28,16 +32,16 @@ Structure:
 - Data structured in tabular format with each row representing a unique mobile purchase.
 
 5. Features and Highlights
-> Business Problem
+5.1 Business Problem
 Mobile retailers often struggle to pinpoint which brands, cities, or customer segments drive the most revenue. Without a centralized dashboard, insights remain buried in raw spreadsheets.
 
-> Goal of the Dashboard
+5.2 Goal of the Dashboard
 To build a unified, interactive view of sales trends by brand, city, customer demographics, and payment method. The dashboard helps stakeholders:
 - Understand buying behavior
 - Optimize product strategy
 - Refine marketing efforts
 
-> Walkthrough of Key Visuals:
+5.3 Walkthrough of Key Visuals:
 - Top Brands by Units Sold & Revenue (Bar Charts)
 Quickly spot top-performing brands like Xiaomi, Vivo, and OnePlus.
 
@@ -56,7 +60,7 @@ Identifies popular transaction methods like UPI, Cash, and Credit Cards.
 - Age Distribution of Buyers (Histogram)
 Understands which age groups dominate mobile purchases.
 
-> Business Impact & Insights
+5.4 Business Impact & Insights
 - Product Strategy: Identify high-demand models and adjust stock accordingly.
 - Customer Targeting: Segment campaigns by age group, city, or preferences.
 - Operational Planning: Plan workforce or delivery logistics based on peak days.
